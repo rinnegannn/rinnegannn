@@ -8,9 +8,9 @@
 ## About Me
 I am a **passionate software engineering student** with hands-on experience in **full-stack development, AI, and cybersecurity projects**. I enjoy building **user-focused, scalable software** and solving challenging problems using modern technologies.
 
-- 🔭 Currently working on **school projects and personal AI tools**  
+- 🔭 Currently working on **school projects** using **Linux, C, Vim, and continuous integration pipelines**  
 - 🌱 Learning **Data Structures & Algorithms, Digital Systems, and Computer Architecture**  
-- 💬 Ask me about **Python, Java, SQL, AI, and Cybersecurity**  
+- 💬 Ask me about **Python, Java, SQL**
 - 📫 Reach me at **aryanv1945@gmail.com**  
 
 ## Connect with Me
@@ -34,12 +34,13 @@ Python | Java | SQL | C | Bash | Swift | MATLAB
 HTML | JavaScript | React | Flutter  
 
 ### Tools & Platforms
-Git | Docker | Firebase | Linux | Arduino | OpenCV | TensorFlow  
+Git | Docker | Firebase | Linux | Arduino | OpenCV | TensorFlow | Vim | CI/CD  
 
 ## Projects
 - **Recollect (iOS App):** Medication reminder app for elderly users using Swift and OOP principles  
 - **ASAP (Object Detection App):** Detects vegetables for a visually and hearing-impaired client using Python, YOLO, HTML, and JSON  
-- **School/AI Projects:** Various AI, cybersecurity, and full-stack web applications  
+- **Collision Visualizer (Java):** A simulation tool that visualizes object collisions with configurable physics parameters, helping users understand motion and impacts  
+- **School Projects:** Using Linux, C, Vim, git, and continuous integration pipelines to create projects  
 
 ## Stats
 <p align="center">
