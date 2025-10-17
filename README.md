@@ -6,12 +6,12 @@
 </p>
 
 ## About Me
-I am a **passionate software engineering student** with hands-on experience in **full-stack development, AI, and cybersecurity projects**. I enjoy building **user-focused, scalable software** and solving challenging problems using modern technologies.
+I’m a **passionate software engineering student** with hands-on experience in **full-stack development, AI, and cybersecurity**. I love building **scalable, user-focused software** and solving real-world problems through code and creativity.
 
 - 🔭 Currently working on **school projects** using **Linux, C, Vim, and continuous integration pipelines**  
-- 🌱 Learning **Data Structures & Algorithms, Digital Systems, and Computer Architecture**  
-- 💬 Ask me about **Python, Java, SQL**
-- 📫 Reach me at **aryanv1945@gmail.com**  
+- 🌱 Expanding my skills in **Data Structures & Algorithms, Digital Systems, and Computer Architecture**  
+- 💬 Ask me about **Python, Java, or SQL**  
+- 📫 Reach me at **aryanv1945@gmail.com**
 
 ## Connect with Me
 <p align="left">
@@ -37,12 +37,7 @@ HTML | JavaScript | React | Flutter
 Git | Docker | Firebase | Linux | Arduino | OpenCV | TensorFlow | Vim | CI/CD  
 
 ## Projects
-- **Recollect (iOS App):** Medication reminder app for elderly users using Swift and OOP principles  
-- **ASAP (Object Detection App):** Detects vegetables for a visually and hearing-impaired client using Python, YOLO, HTML, and JSON  
-- **Collision Visualizer (Java):** A simulation tool that visualizes object collisions with configurable physics parameters, helping users understand motion and impacts  
-- **School Projects:** Using Linux, C, Vim, git, and continuous integration pipelines to create projects  
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinnegannn&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
+- **Recollect (iOS App):** Medication reminder app for elderly users, built with Swift and OOP principles  
+- **ASAP (Object Detection App):** Detects vegetables for visually and hearing-impaired users using Python, YOLO, HTML, and JSON  
+- **Collision Visualizer (Java):** A simulation tool that visualizes collisions with configurable physics parameters to help users understand motion and impacts  
+- **Linux-Based Development Projects:** Created and maintained C projects using Vim, Git, and continuous integration pipelines  
