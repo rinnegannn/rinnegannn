@@ -2,21 +2,25 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
-  workflow_dispatch:     # allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake (dark theme)
+        uses: Platane/snk@v3
         with:
           github_user_name: rinnegannn
+
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a855f7&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
