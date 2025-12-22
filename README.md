@@ -63,7 +63,6 @@ I’m a **Software Engineering student at McMaster University** with strong inte
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Verma-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aryanverma1)
-[![GitHub](https://img.shields.io/badge/GitHub-rinnegannn-black?style=flat&logo=github)](https://github.com/rinnegannn)
 [![Email](https://img.shields.io/badge/Email-aryanv1945%40gmail.com-red?style=flat&logo=gmail)](mailto:aryanv1945@gmail.com)
 
 ---
