@@ -1,16 +1,13 @@
 <div align="center">
   <img src="assets/banner.jpg" width="100%" />
-  <br />
   <img src="https://img.shields.io/badge/GPA-4.0%20%2F%204.0-white?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/RANK-TOP%2010%25%20OF%20PROGRAM-white?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/RANK-TOP%2010%25-white?style=for-the-badge&labelColor=black" />
 </div>
 
 ```bash
 $ status --user "rinnegannn"
-> USER:    Aryan Verma
-> ROLE:    Software Engineering Student (McMaster Co-op)
-> EXP:     GPA 4.0 / 4.0 · Top 10% of Program
-> FOCUS:   Software Engineering | Machine Learning | Cloud Systems
+> ROLE:    Software Engineering @ McMaster (Co-op)
+> FOCUS:   Cybersecurity | Machine Learning | Cloud Architecture
 > MISSION: Building scalable, reliable systems.
 ```
 
@@ -22,79 +19,51 @@ $ status --user "rinnegannn"
 
 ---
 
-## ✦ About Me
+### ✦ About Me
+Software Engineering student at **McMaster University** focused on **AI**, **Cybersecurity**, and **Cloud Architecture**. Experience spans **low-level C networking**, **React/PostgreSQL** platforms, and **LLM automation**. Currently exploring **Operating Systems** and **Distributed Databases**.
 
-Software Engineering student at **McMaster University** focused on **systems-level engineering** and **applied AI**.
-Experience spans **low-level networking tools in C**, production-grade web platforms with **React** and **PostgreSQL**, and **applied ML systems**.
-Recent work includes **LLM-based automation**, a **YOLOv8 vision system** for **Usher Syndrome accessibility**, and an AI project for the **Gemini Hackathon**.
-
-- **Accolades:** Provost’s Honour Roll · Dean’s Honour List
-- **Experience:** Backend systems, networking-focused software, and mobile development
-- **Currently Learning:** AWS, Data Structures & Algorithms, Operating Systems, Computer Architecture, Databases
+- **Accolades:** Provost's Honour Roll · Dean's Honour List
+- **Interests:** Anime · Competitive Gaming · LeetCode (yes i'm not lying) · Chess · Golf
 
 ---
 
-## ✦ Projects
+### ✦ Top Projects
 
-### 1. [WireFish](https://github.com/rinnegannn/wirefish)
+#### 1. [WireFish](https://github.com/rinnegannn/wirefish)
 *A high-performance, minimalist network diagnostics engine engineered in C.*
-
 - **Core Engineering:** Implemented low-level socket programming for TCP port scanning, ICMP traceroute, and real-time interface monitoring.
-- **Key Insight:** Designed to deepen understanding of networking fundamentals and systems-level resource management.
-- **Tech:** C, POSIX Threads, Raw Sockets, Linux
+- **Key Insight:** Designed to learn networking fundamentals and the complexities of systems-level resource management.
+- **Tools:** C, POSIX Threads, Raw Sockets, Linux.
 
-### 2. [ReliefLocator](https://github.com/rinnegannn/relieflocator)
+#### 2. [ReliefLocator](https://github.com/rinnegannn/relieflocator)
 *Full-stack humanitarian platform designed for real-time crisis response.*
+- **Core Engineering:** Developed a responsive mapping system using React and Leaflet, backed by a PostgreSQL database for emergency resource management.
+- **Key Insight:** Combines geospatial data with intuitive UI/UX to solve real-world logistical challenges in emergency aid.
+- **Tools:** React, Leaflet.js, PostgreSQL, Node.js.
 
-- **Core Engineering:** Built a responsive mapping system using React and Leaflet, backed by a PostgreSQL database for emergency resource management.
-- **Key Insight:** Combines geospatial data with intuitive UI/UX to solve real-world logistical challenges.
-- **Tech:** React, Leaflet.js, PostgreSQL, Node.js
-
-### 3. [ObjectDetector](https://github.com/rinnegannn/objectdetector)
+#### 3. [ObjectDetector](https://github.com/rinnegannn/objectdetector)
 *Assistive-technology vision system optimized for low-latency visual recognition.*
-
-- **Core Engineering:** Architected a real-time detection pipeline using YOLOv8 and Flask, designed for users with Usher Syndrome.
-- **Key Insight:** Prioritizes accessibility and low-latency feedback, demonstrating applied computer vision in an assistive context.
-- **Tech:** Python, YOLOv8, Flask, Computer Vision
+- **Core Engineering:** Architected a real-time detection pipeline using YOLOv8 and Flask, specifically designed for users with Usher Syndrome.
+- **Key Insight:** Prioritizes accessibility and feedback, demonstrating the intersection of applied computer vision and inclusive design.
+- **Tools:** Python, YOLOv8, Flask, Computer Vision.
 
 ---
 
-## ✦ Tech Stack
-
-| Category | Tools & Technologies |
+### ✦ Technical Stack
+| Category | Tools |
 | :--- | :--- |
 | **Languages** | `Python` `Java` `C` `C++` `JavaScript` `Swift` `SQL` |
 | **Frameworks** | `React` `Node.js` `Express` `Flask` `SwiftUI` `Framer Motion` |
-| **Cloud & DevOps** | `AWS` `Docker` `CI/CD` `Linux` `Bash` `Git` |
-| **Databases** | `PostgreSQL` `MySQL` `MS SQL Server` |
+| **DevOps** | `AWS` `Docker` `CI/CD` `Linux` `Bash` `Git` |
 
 ---
 
-## ✦ Interests
-- Watching Anime
-- Competitive Gaming
-- LeetCode (yes i'm not lying)
-- Chess
-- Golf
-
----
-
-## ✦ Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/aryanverma1"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Verma-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:aryanv1945@gmail.com"><img src="https://img.shields.io/badge/Email-aryanv1945%40gmail.com-red?style=flat&logo=gmail" /></a>
-</div>
-
----
-
-## ✦ Contribution Activity
-
+### ✦ Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rinnegannn/rinnegannn/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rinnegannn/rinnegannn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rinnegannn/rinnegannn/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/rinnegannn/rinnegannn/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -102,8 +71,6 @@ Recent work includes **LLM-based automation**, a **YOLOv8 vision system** for **
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
-  <p align="center">
-    <br /><br />
-    <b>// chat, is this aura farming?</b>
-  </p>
+  <br /><br />
+  <b>// chat, is this aura farming?</b>
 </div>
