@@ -1,82 +1,109 @@
-<h1 align="center">Hey 👋, I'm Aryan Verma</h1>
-<h3 align="center">Software Engineering Student | Cloud, Systems, AI & Cybersecurity</h3>
+<div align="center">
+  <img src="assets/banner.jpg" width="100%" />
+  <br />
+  <img src="https://img.shields.io/badge/GPA-4.0%20%2F%204.0-white?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/RANK-TOP%2010%25%20OF%20PROGRAM-white?style=for-the-badge&labelColor=black" />
+</div>
+
+```bash
+$ status --user "rinnegannn"
+> USER:    Aryan Verma
+> ROLE:    Software Engineering Student (McMaster Co-op)
+> EXP:     GPA 4.0 / 4.0 · Top 10% of Program
+> FOCUS:   Software Engineering | Machine Learning | Cloud Systems
+> MISSION: Building scalable, reliable systems.
+```
 
 <p align="center">
-  McMaster University · GPA 4.0/4.0 · Software Engineering (Co-op)
+  <a href="https://rinnegannn.github.io/aryan-portfolio/"><b>Portfolio</b></a> • 
+  <a href="https://linkedin.com/in/aryanverma1"><b>LinkedIn</b></a> • 
+  <a href="mailto:aryanv1945@gmail.com"><b>Contact</b></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## ✦ About Me
 
-I’m a **Software Engineering student at McMaster University** with strong interests in **cloud computing, machine learning, cybersecurity, and systems programming**.
+Software Engineering student at **McMaster University** focused on **systems-level engineering** and **applied AI**.
+Experience spans **low-level networking tools in C**, production-grade web platforms with **React** and **PostgreSQL**, and **applied ML systems**.
+Recent work includes **LLM-based automation**, a **YOLOv8 vision system** for **Usher Syndrome accessibility**, and an AI project for the **Gemini Hackathon**.
 
-- 🎓 **GPA:** 4.0 / 4.0 — **Top 15% of the program**  
-  Provost’s Honour Roll · Dean’s Honour List  
-- 🔭 Experience in **backend systems, mobile development, and networking-focused software**  
-- 🌱 Currently studying **Data Structures & Algorithms, Computer Architecture, Databases, and AWS**  
-- 💬 Comfortable working with **Python, Java, C, Linux, and core networking concepts**  
-- 📫 **aryanv1945@gmail.com**
-
----
-
-## 🎯 Interests & Hobbies
-- 🎮 Video games (strategy & competitive)
-- ♟️ Chess
-- ⛳ Golf
+- **Accolades:** Provost’s Honour Roll · Dean’s Honour List
+- **Experience:** Backend systems, networking-focused software, and mobile development
+- **Currently Learning:** AWS, Data Structures & Algorithms, Operating Systems, Computer Architecture, Databases
 
 ---
 
-## 🔧 Technologies & Tools
+## ✦ Projects
 
-### Languages
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white)
+### 1. [WireFish](https://github.com/rinnegannn/wirefish)
+*A high-performance, minimalist network diagnostics engine engineered in C.*
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/Framework-SwiftUI-informational?style=flat&logo=swift&logoColor=white)
-![YOLO](https://img.shields.io/badge/ML-YOLO-informational?style=flat)
+- **Core Engineering:** Implemented low-level socket programming for TCP port scanning, ICMP traceroute, and real-time interface monitoring.
+- **Key Insight:** Designed to deepen understanding of networking fundamentals and systems-level resource management.
+- **Tech:** C, POSIX Threads, Raw Sockets, Linux
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white)
-![MS SQL](https://img.shields.io/badge/Database-MS%20SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white)
+### 2. [ReliefLocator](https://github.com/rinnegannn/relieflocator)
+*Full-stack humanitarian platform designed for real-time crisis response.*
 
-### Developer Tools
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
-![Vim](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white)
-![CI/CD](https://img.shields.io/badge/Tools-CI%2FCD-informational?style=flat)
+- **Core Engineering:** Built a responsive mapping system using React and Leaflet, backed by a PostgreSQL database for emergency resource management.
+- **Key Insight:** Combines geospatial data with intuitive UI/UX to solve real-world logistical challenges.
+- **Tech:** React, Leaflet.js, PostgreSQL, Node.js
+
+### 3. [ObjectDetector](https://github.com/rinnegannn/objectdetector)
+*Assistive-technology vision system optimized for low-latency visual recognition.*
+
+- **Core Engineering:** Architected a real-time detection pipeline using YOLOv8 and Flask, designed for users with Usher Syndrome.
+- **Key Insight:** Prioritizes accessibility and low-latency feedback, demonstrating applied computer vision in an assistive context.
+- **Tech:** Python, YOLOv8, Flask, Computer Vision
 
 ---
 
-## 🤝 Connect With Me
+## ✦ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Verma-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aryanverma1)
-[![Email](https://img.shields.io/badge/Email-aryanv1945%40gmail.com-red?style=flat&logo=gmail)](mailto:aryanv1945@gmail.com)
-
----
-
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SammyTourani/SammyTourani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SammyTourani/SammyTourani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SammyTourani/SammyTourani/output/github-contribution-grid-snake.svg">
-</picture>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `C` `C++` `JavaScript` `Swift` `SQL` |
+| **Frameworks** | `React` `Node.js` `Express` `Flask` `SwiftUI` `Framer Motion` |
+| **Cloud & DevOps** | `AWS` `Docker` `CI/CD` `Linux` `Bash` `Git` |
+| **Databases** | `PostgreSQL` `MySQL` `MS SQL Server` |
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+## ✦ Interests
+- Watching Anime
+- Competitive Gaming
+- LeetCode (yes i'm not lying)
+- Chess
+- Golf
+
+---
+
+## ✦ Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/aryanverma1"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Verma-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:aryanv1945@gmail.com"><img src="https://img.shields.io/badge/Email-aryanv1945%40gmail.com-red?style=flat&logo=gmail" /></a>
+</div>
+
+---
+
+## ✦ Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rinnegannn/rinnegannn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rinnegannn/rinnegannn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rinnegannn/rinnegannn/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
+  <p align="center">
+    <br /><br />
+    <b>// chat, is this aura farming?</b>
+  </p>
+</div>
