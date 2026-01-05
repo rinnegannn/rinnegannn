@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner.jpg" width="100%" />
   <img src="https://img.shields.io/badge/GPA-4.0%20%2F%204.0-white?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/RANK-TOP%2010%25-white?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/RANK-TOP%2015%25-white?style=for-the-badge&labelColor=black" />
 </div>
 
 ```bash
