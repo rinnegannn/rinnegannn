@@ -20,41 +20,48 @@ $ status --user "rinnegannn"
 ---
 
 ### ✦ About Me
-Software Engineering student at **McMaster University** focused on **AI**, **Cybersecurity**, and **Cloud Architecture**. Experience spans **low-level C networking**, **React/PostgreSQL** platforms, and **LLM automation**. Currently exploring **Operating Systems** and **Distributed Databases**.
+Software Engineering student at **McMaster University** focused on **AI**, **Cybersecurity**, and **Distributed Systems**. Experience spans **low-level C networking**, **Next.js & Web3** architectures, and **LLM automation**. Currently exploring **Operating Systems** and **AI-driven security**.
 
-- **Accolades:** Provost's Honour Roll · Dean's Honour List
+- **Accolades:** Hackathon Winner (CxC 2026) · Provost's Honour Roll · Dean's Honour List
 - **Interests:** Anime · Competitive Gaming · LeetCode (yes i'm not lying) · Chess · Golf
 
 ---
 
 ### ✦ Top Projects
 
-#### 1. [WireFish](https://github.com/rinnegannn/wirefish)
+#### 1. [TruthTone++](https://github.com/rinnegannn/truthtone)
+*AI Audio Deepfake Detector · Winner at CxC University of Waterloo (Largest Datathon).*
+- **Core Engineering:** Won 1st place among 350+ teams by architecting a deepfake detection system (85-92% accuracy) using custom ML classifiers, Gemini API, and librosa.
+- **Key Insight:** Pioneered 3D audio mapping to Three.js meshes and integrated Solana/Metaplex for immutable NFT audio verification.
+- **Tools:** Python, TypeScript, Next.js, Three.js, Solana, Gemini AI.
+
+#### 2. [Portfolio Metrics Extractor](https://github.com/rinnegannn/portfolio-metrics-extractor)
+*LLM-powered automation pipeline for high-accuracy financial data extraction.*
+- **Core Engineering:** Built an automated ETL pipeline achieving 100% accuracy across key metrics by implementing LLM-powered semantic parsing of unstructured quarterly reports.
+- **Key Insight:** Handles 10+ inconsistent PDF formats with schema validation and JSON transformation for immediate BI tool integration.
+- **Tools:** Python, Gemini AI, pdfplumber, pandas.
+
+#### 3. [WireFish](https://github.com/rinnegannn/wirefish)
 *A high-performance, minimalist network diagnostics engine engineered in C.*
-- **Core Engineering:** Implemented low-level socket programming for TCP port scanning, ICMP traceroute, and real-time interface monitoring.
-- **Key Insight:** Designed to learn networking fundamentals and the complexities of systems-level resource management.
-- **Tools:** C, POSIX Threads, Raw Sockets, Linux.
+- **Core Engineering:** Built POSIX networking utilities implementing raw ICMP packets and non-blocking TCP sockets, reducing network test failures by 60%.
+- **Key Insight:** Configured automated GitHub Actions CI/CD pipelines with multi-platform builds to ensure extreme system-level stability.
+- **Tools:** C, POSIX, ICMP, TCP/IP, GitHub Actions.
 
-#### 2. [ReliefLocator](https://github.com/rinnegannn/relieflocator)
-*Full-stack humanitarian platform designed for real-time crisis response.*
-- **Core Engineering:** Developed a responsive mapping system using React and Leaflet, backed by a PostgreSQL database for emergency resource management.
-- **Key Insight:** Combines geospatial data with intuitive UI/UX to solve real-world logistical challenges in emergency aid.
-- **Tools:** React, Leaflet.js, PostgreSQL, Node.js.
-
-#### 3. [ObjectDetector](https://github.com/rinnegannn/objectdetector)
+#### 4. [ObjectDetector](https://github.com/rinnegannn/objectdetector)
 *Assistive-technology vision system optimized for low-latency visual recognition.*
-- **Core Engineering:** Architected a real-time detection pipeline using YOLOv8 and Flask, specifically designed for users with Usher Syndrome.
-- **Key Insight:** Prioritizes accessibility and feedback, demonstrating the intersection of applied computer vision and inclusive design.
-- **Tools:** Python, YOLOv8, Flask, Computer Vision.
+- **Core Engineering:** Led development of a real-time detection pipeline using YOLOv8, trained on 2,000+ images to detect 50+ items with 90%+ accuracy.
+- **Key Insight:** Integrated text-to-speech with OpenCV video processing to enable independent grocery shopping for visually impaired users.
+- **Tools:** Python, YOLOv8, OpenCV, TTS.
 
 ---
 
 ### ✦ Technical Stack
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `Python` `Java` `C` `C++` `JavaScript` `Swift` `SQL` |
-| **Frameworks** | `React` `Node.js` `Express` `Flask` `SwiftUI` `Framer Motion` |
-| **DevOps** | `AWS` `Docker` `CI/CD` `Linux` `Bash` `Git` |
+| **Languages** | `Python` `Java` `C` `C++` `TypeScript` `JavaScript` `SQL` |
+| **Frameworks** | `React` `Next.js` `Node.js` `Express` `Flask` `Three.js` `SwiftUI` |
+| **AI & Data** | `Gemini AI` `YOLOv8` `OpenCV` `pandas` `PyTorch` `Librosa` |
+| **DevOps & Web3** | `AWS` `Docker` `CI/CD` `Solana` `Linux` `Bash` `Git` |
 
 ---
 
