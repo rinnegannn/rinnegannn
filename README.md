@@ -29,13 +29,13 @@ Software Engineering student at **McMaster University** focused on **AI**, **Cyb
 
 ### ✦ Top Projects
 
-#### 1. [TruthTone++](https://github.com/rinnegannn/truthtone)
+#### 1. [TruthTone++](https://github.com/beanscrack/Truth-Tone)
 *AI Audio Deepfake Detector · Winner at CxC University of Waterloo (Largest Datathon).*
 - **Core Engineering:** Won 1st place among 350+ teams by architecting a deepfake detection system (85-92% accuracy) using custom ML classifiers, Gemini API, and librosa.
 - **Key Insight:** Pioneered 3D audio mapping to Three.js meshes and integrated Solana/Metaplex for immutable NFT audio verification.
 - **Tools:** Python, TypeScript, Next.js, Three.js, Solana, Gemini AI.
 
-#### 2. [Portfolio Metrics Extractor](https://github.com/rinnegannn/portfolio-metrics-extractor)
+#### 2. [Portfolio Metrics Extraction](https://github.com/rinnegannn/portfolio-metrics-extraction)
 *LLM-powered automation pipeline for high-accuracy financial data extraction.*
 - **Core Engineering:** Built an automated ETL pipeline achieving 100% accuracy across key metrics by implementing LLM-powered semantic parsing of unstructured quarterly reports.
 - **Key Insight:** Handles 10+ inconsistent PDF formats with schema validation and JSON transformation for immediate BI tool integration.
