@@ -35,17 +35,17 @@ Software Engineering student at **McMaster University** focused on **AI**, **Cyb
 - **Key Insight:** Pioneered 3D audio mapping to Three.js meshes and integrated Solana/Metaplex for immutable NFT audio verification.
 - **Tools:** Python, TypeScript, Next.js, Three.js, Solana, Gemini AI.
 
-#### 2. [Portfolio Metrics Extraction](https://github.com/rinnegannn/portfolio-metrics-extraction)
+#### 2. [SkinSight](https://github.com/Anasthecode/SkinSight)
+*Multimodal AI Dermatology Assistant · 2nd Place Overall at MacHacks 2026.*
+- **Core Engineering:** Built a real-time clinical AI assistant in a 6-hour sprint that classifies dermoscopic lesions across 7 categories in under 5 seconds with about 85% validation accuracy.
+- **Key Insight:** Combined a QLoRA-tuned Vision Transformer with custom Grad-CAM for interpretable heatmaps and Gemini 1.5 Flash for patient-friendly urgency guidance.
+- **Tools:** PyTorch, Hugging Face Transformers, PEFT, bitsandbytes, FastAPI, React, Vite, Tailwind CSS, Gemini API.
+
+#### 3. [Portfolio Metrics Extraction](https://github.com/rinnegannn/portfolio-metrics-extraction)
 *LLM-powered automation pipeline for high-accuracy financial data extraction.*
 - **Core Engineering:** Built an automated ETL pipeline achieving 100% accuracy across key metrics by implementing LLM-powered semantic parsing of unstructured quarterly reports.
 - **Key Insight:** Handles 10+ inconsistent PDF formats with schema validation and JSON transformation for immediate BI tool integration.
 - **Tools:** Python, Gemini AI, pdfplumber, pandas.
-
-#### 3. [WireFish](https://github.com/rinnegannn/wirefish)
-*A high-performance, minimalist network diagnostics engine engineered in C.*
-- **Core Engineering:** Built POSIX networking utilities implementing raw ICMP packets and non-blocking TCP sockets, reducing network test failures by 60%.
-- **Key Insight:** Configured automated GitHub Actions CI/CD pipelines with multi-platform builds to ensure extreme system-level stability.
-- **Tools:** C, POSIX, ICMP, TCP/IP, GitHub Actions.
 
 #### 4. [ObjectDetector](https://github.com/rinnegannn/objectdetector)
 *Assistive-technology vision system optimized for low-latency visual recognition.*
